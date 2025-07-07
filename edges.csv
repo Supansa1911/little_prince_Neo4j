@@ -20,7 +20,7 @@ Source,Target,Sum of Weight
  Little Prince, Little Prince,12
  Little Prince, Flower on Earth,4
  Little Prince, Three-Petaled Flower,2
- Little Prince, Little Prince’s Planet (B-612),1
+ Little Prince, Little Princes Planet (B-612),1
  Little Prince, Baobab Tree,4
  Little Prince, Businessman,3
  Little Prince, Pilot,29
@@ -42,18 +42,18 @@ Source,Target,Sum of Weight
  Pilot, Airplane,9
  Pilot, Little Prince,39
  Pilot, Man with a Long Back,0.5
- Pilot, Little Prince’s Planet (B-612),1.5
+ Pilot, Little Princes Planet (B-612),1.5
  Pilot, Baobab Tree,0.5
  Pilot, Turkish Astronomer,0.5
  Pilot, Pilot,10
- Pilot, Grown-Ups (duplicate),4
+ Pilot,Adult,4
  Pilot, Drawing of a Boa Constrictor,1
  Geographer, Little Prince,2
  Geographer, Explorer,0.5
  Geographer, Earth,0.5
  Railway Switchman, Little Prince,2
  King, Little Prince,3
- King, King’s Planet,0.5
+ King, Kings Planet,0.5
  Salesclerk, Little Prince,2
  Fox, Chicken,0.5
  Fox, Little Prince,5

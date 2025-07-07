@@ -1,36 +1,36 @@
-ID,Charactor name,planet
-1, Little Prince,B612
-2, Rose,B612
-3, Roses on Earth,Earth
-4, Drunkard,Asteroid 1
-5, Lamplighter,Asteroid 2
-6, Vain Man,Asteroid 3
-7, Snake,Earth
-8, Three-Petaled Flower,Earth
-9, Birds,B612
-10, Businessman,Asteroid 4
-11, Pilot,Earth
-12, Geographer,Asteroid 5
-13, Railway Switchman,Asteroid 6
-14, King,Asteroid 7
-15, Salesclerk,Earth
-16, Fox,Earth
-17, Sheep,Earth
-18, Airplane,Earth
-19, Baobab Tree,B612
-20, Little Prince’s Planet (B-612),B612
-21, Sun,Galaxy
-22, Wind,B612
-23, Earth, Earth
-24, Mountains on Earth,Earth
-25, Flower on Earth,Earth
-26, Tiger,B612
-27, Caterpillar,B612
-28, Caravan,Earth
-29, Drawing of a Boa Constrictor,Earth
-30, Turkish Astronomer,Earth
-31, Man with a Long Back,Asteroid 8
-32,Adult,Earth
-33, Explorer,Galaxy
-34, King’s Planet,Earth
-35, Chicken,Earth
+ID,Label,planet
+ Little Prince, Little Prince,B612
+ Rose, Rose,B612
+ Roses on Earth, Roses on Earth,Earth
+ Drunkard, Drunkard,Asteroid 1
+ Lamplighter, Lamplighter,Asteroid 2
+ Vain Man, Vain Man,Asteroid 3
+ Snake, Snake,Earth
+ Three-Petaled Flower, Three-Petaled Flower,Earth
+ Birds, Birds,B612
+ Businessman, Businessman,Asteroid 4
+ Pilot, Pilot,Earth
+ Geographer, Geographer,Asteroid 5
+ Railway Switchman, Railway Switchman,Asteroid 6
+ King, King,Asteroid 7
+ Salesclerk, Salesclerk,Earth
+ Fox, Fox,Earth
+ Sheep, Sheep,Earth
+ Airplane, Airplane,Earth
+ Baobab Tree, Baobab Tree,B612
+ Little Princes Planet (B-612), Little Princes Planet (B-612),B612
+ Sun, Sun,Galaxy
+ Wind, Wind,B612
+ Earth, Earth, Earth
+ Mountains on Earth, Mountains on Earth,Earth
+ Flower on Earth, Flower on Earth,Earth
+ Tiger, Tiger,B612
+ Caterpillar, Caterpillar,B612
+ Caravan, Caravan,Earth
+ Drawing of a Boa Constrictor, Drawing of a Boa Constrictor,Earth
+ Turkish Astronomer, Turkish Astronomer,Earth
+ Man with a Long Back, Man with a Long Back,Asteroid 8
+Adult,Adult,Earth
+ Explorer, Explorer,Galaxy
+ Kings Planet, Kings Planet,Earth
+ Chicken, Chicken,Earth

@@ -1,0 +1,59 @@
+Source,Target,Sum of Weight
+ Rose, Rose,0.5
+ Rose, Little Prince,7
+ Rose, Wind,1
+ Rose, Tiger,1
+ Rose, Caterpillar,0.5
+ Roses on Earth, Little Prince,2
+ Drunkard, Little Prince,2
+ Lamplighter, Little Prince,3
+ Vain Man, Little Prince,2
+ Snake, Little Prince,5
+ Little Prince, Rose,32.5
+ Little Prince, Roses on Earth,2
+ Little Prince, Sheep,6
+ Little Prince, Drunkard,2
+ Little Prince, Lamplighter,3
+ Little Prince, Vain Man,2
+ Little Prince, Airplane,1
+ Little Prince, Snake,6
+ Little Prince, Little Prince,12
+ Little Prince, Flower on Earth,4
+ Little Prince, Three-Petaled Flower,2
+ Little Prince, Little Prince’s Planet (B-612),1
+ Little Prince, Baobab Tree,4
+ Little Prince, Businessman,3
+ Little Prince, Pilot,29
+ Little Prince, Geographer,3
+ Little Prince, Railway Switchman,2
+ Little Prince, King,3
+ Little Prince, Sun,4
+ Little Prince, Salesclerk,2
+ Little Prince, Mountains on Earth,1
+ Little Prince, Wind,0.5
+ Little Prince, Earth,0.5
+ Little Prince, Fox,5.5
+ Three-Petaled Flower, Caravan,0.5
+ Three-Petaled Flower, Little Prince,2
+ Birds, Little Prince,1
+ Businessman, Little Prince,2
+ Pilot, Rose,0.5
+ Pilot, Sheep,0.5
+ Pilot, Airplane,9
+ Pilot, Little Prince,39
+ Pilot, Man with a Long Back,0.5
+ Pilot, Little Prince’s Planet (B-612),1.5
+ Pilot, Baobab Tree,0.5
+ Pilot, Turkish Astronomer,0.5
+ Pilot, Pilot,10
+ Pilot, Grown-Ups (duplicate),4
+ Pilot, Drawing of a Boa Constrictor,1
+ Geographer, Little Prince,2
+ Geographer, Explorer,0.5
+ Geographer, Earth,0.5
+ Railway Switchman, Little Prince,2
+ King, Little Prince,3
+ King, King’s Planet,0.5
+ Salesclerk, Little Prince,2
+ Fox, Chicken,0.5
+ Fox, Little Prince,5
